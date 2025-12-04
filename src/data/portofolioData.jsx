@@ -58,6 +58,7 @@ export const portfolioData = {
             },
             {
                 id: 5,
+
                 img: "/assets/PythonData.png",
                 link: "https://www.coursera.org/account/accomplishments/certificate/ADHDIJJI0OU9"
             },

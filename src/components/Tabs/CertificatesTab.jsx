@@ -13,6 +13,7 @@ const CertificatesTab = ({ certificates }) => {
                     rel="noopener noreferrer"
                     className="block"
                 >
+
                     <div className="bg-white dark:bg-gray-800 border border-white rounded-lg shadow-lg hover:-translate-y-1 transition-transform overflow-hidden">
                         <img
                             src={certificate.img}
